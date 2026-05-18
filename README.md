@@ -105,6 +105,7 @@
 ```bash
 git clone https://github.com/AnatoliyVolkov/FrogWinFormsApp.git
 cd FrogWinFormsApp
+```
 
 
 ---
